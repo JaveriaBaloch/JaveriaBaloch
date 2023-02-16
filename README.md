@@ -6,7 +6,7 @@ I am currently doing by **bachelors of Coding and Software Engineers** from **XU
 I am Software developer **who knows many coding languages**, which are categorised such as **HTML, CSS, JavaScript, Bootstrap, SCSS, jQuery, AJAX, Node, TypeScript, React JS, Redux, WordPress, C++, Vue JS, Kotlin, Flutter, Java, Express, MYSQL, PHP, Python, Firebases, Spring Boot, MongoDB** and **loves to learn new coding languages**.
 
 
-along with my coding skills, I also have **graphic design expertise** as well. I am familiar with **designing** and **UI creation tools** such as:
+Along with my coding skills, I also have **graphic design expertise** as well. I am familiar with **designing** and **UI creation tools** such as:
 - Adobe XD 
 - Photoshop
 - Figma
