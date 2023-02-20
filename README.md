@@ -32,13 +32,13 @@ I currently work as a **Software Engineer (Intern)** for **Digital Product Schoo
 
 When it comes to choosing a UI or a technology, **I still play a role in the decision-making process for my team by discussing my ideas about user experience design and coding language selection.** I help the team members learn new technologies and always take part in **decision-making** with the program manager, UX designer, and end-user on daily basis  as we adopt an **agile approach**.
 
-**Software Requirement Engineering** remain the part of my daily work at **Ecomak Recyclers Limited** and **Digital Product School by UnternehmerTUM**, therefore I alway remain  very concerned about UX and UI, I utlised my graphic design expertise to design fascinating UI to satisfy the end-user before entering the coding phase.
+**Software Requirement Engineering** remained a part of my daily-life work at **Ecomak Recyclers Limited** and **Digital Product School by UnternehmerTUM**, therefore I alway remain concerned about UX and UI, I utlise my graphic design expertises to design fascinating UI to satisfy the end-user needs before start coding.
 ***
 
 
 ### Future Goals:
 ***
-My future goal is to become a **Full stack developer** and **Could Expert**, So I will have a complete command on my site and provide a great experience to end user by **solving their daily life problems through softwares.**
+My future goal is to become a **Full stack developer** and **Could Expert**, So I will have a complete command on my site and provide a great experience to end-user by **solving their daily life problems through softwares.**
 
 ***
 
