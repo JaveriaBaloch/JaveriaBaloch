@@ -28,7 +28,7 @@ Along with my coding skills, I also have **graphic design expertise**. I am fami
 I started my career with **Ecomak Recycler Limited** as a **Web Developer**.I was **in-charge of overseeing the development of the company website**. **My key responsibilities include coding new features, maintaining a consistent and attractive visual style, and producing graphics, user interfaces, and css code templates while working with other web developers and the marketing business unit.**
 
 
-I currently work as a **Software Engineer (Intern)** for **Digital Product School by UnternehmerTUM**. **I'm working on creating software that will enable a ideal digital workflow for users across various sectors and department, making them to work collaborately by using a centralized system. I'm working with my team to create a new software solution for this ideal workflow, and we're also experimenting with integrating it with existing tools.**
+I currently work as a **Software Engineer (Intern)** for **Digital Product School by UnternehmerTUM**. **I'm working on creating a software that will enable a ideal digital workflow for users across various sectors and department of Government, making them to work collaborately by using a centralized system. I along with my team also experimenting to integrate our software to existing tools.**
 
 When it comes to choosing a UI or a technology, **I still play a role in the decision-making process for my team by discussing my ideas about user experience design and coding language selection.** I help the team members learn new technologies and always take part in **decision-making** with the program manager, UX designer, and end-user on daily basis  as we adopt an **agile approach**.
 
